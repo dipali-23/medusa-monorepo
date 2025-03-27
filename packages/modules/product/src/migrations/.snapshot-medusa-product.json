@@ -533,6 +533,15 @@
           "nullable": true,
           "mappedType": "text"
         },
+        "custom_field_2": {
+          "name": "custom_field_2",
+          "type": "text",
+          "unsigned": false,
+          "autoincrement": false,
+          "primary": false,
+          "nullable": true,
+          "mappedType": "text"
+        },
         "handle": {
           "name": "handle",
           "type": "text",
